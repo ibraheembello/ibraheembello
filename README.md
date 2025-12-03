@@ -50,7 +50,6 @@ const ibrahim = {
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -77,12 +76,24 @@ const ibrahim = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibraheembello&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibraheembello&layout=compact&theme=tokyonight&hide_border=true)
+<!-- Using alternative GitHub Stats API -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ibraheembello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibraheembello&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ibraheembello&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ibraheembello&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Contribution Graph -->
+[![Ibrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibraheembello&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ibraheembello)
 
 </div>
 
@@ -123,9 +134,13 @@ const ibrahim = {
 
 ---
 
-## 📈 Contribution Graph
+## 🏅 GitHub Trophies
 
-![Ibrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibraheembello&theme=tokyo-night&hide_border=true)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ibraheembello&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
