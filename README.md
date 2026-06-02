@@ -202,12 +202,11 @@ const ibraheem = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ibraheembello&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A1A&title_color=7C3AED&icon_color=06B6D4&text_color=FFFFFF&rank_icon=github&cache_seconds=86400" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=ibraheembello&theme=tokyonight&hide_border=true&background=0A0A1A&ring=7C3AED&fire=EC4899&currStreakLabel=06B6D4&sideLabels=FFFFFF&dates=888888" />
+  <img src="https://raw.githubusercontent.com/ibraheembello/ibraheembello/main/github-metrics.svg" width="100%" alt="GitHub metrics" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraheembello&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A1A&title_color=7C3AED&text_color=FFFFFF&langs_count=8&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=ibraheembello&theme=tokyonight&hide_border=true&background=0A0A1A&ring=7C3AED&fire=EC4899&currStreakLabel=06B6D4&sideLabels=FFFFFF&dates=888888" width="72%" />
 </p>
 
 <p align="center">
