@@ -215,10 +215,10 @@ const ibraheem = {
 
 ---
 
-### 🏆 Trophies
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibraheembello&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://raw.githubusercontent.com/ibraheembello/ibraheembello/main/github-achievements.svg" width="100%" alt="achievements" />
 </p>
 
 ---
