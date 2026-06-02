@@ -227,7 +227,7 @@ const ibraheem = {
 ### ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Anomaly Detection Engine for a Self-Hosted Nextcloud (HNG Stage 3)](https://dev.to/ibraheembello/building-a-real-time-anomaly-detection-engine-for-a-self-hosted-nextcloud-hng-stage-3-59km)
+- [Building a real-time anomaly detection engine for a self-hosted Nextcloud &lpar;HNG Stage 3&rpar;](https://dev.to/ibraheembello/building-a-real-time-anomaly-detection-engine-for-a-self-hosted-nextcloud-hng-stage-3-59km)
 - [Deploying NestJS Microservices to Azure Container Apps](https://dev.to/ibraheembello/deploying-nestjs-microservices-to-azure-container-apps-1jh4)
 - [GitHub Issue Monitor AI Agent with Mastra](https://dev.to/ibraheembello/github-issue-monitor-ai-agent-with-mastra-334c)
 <!-- BLOG-POST-LIST:END -->
