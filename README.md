@@ -215,10 +215,10 @@ const ibraheem = {
 
 ---
 
-### 🏆 Achievements
+### 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ibraheembello/ibraheembello/main/github-achievements.svg" width="100%" alt="achievements" />
+  <img src="https://raw.githubusercontent.com/ibraheembello/ibraheembello/main/github-calendar.svg" width="100%" alt="3D contribution calendar" />
 </p>
 
 ---
